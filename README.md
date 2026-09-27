@@ -6,7 +6,7 @@ This repository serves as a foundational step in my journey **towards Data Engin
 
 ## 📊 Project Status
 
-- [ ] **In Progress** — Currently working through part 5 of 7.
+- [/] **In Progress** — Currently working through part 5 of 7.
 
 ## 🚀 Technologies Used
 
