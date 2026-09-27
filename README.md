@@ -1,8 +1,8 @@
 # MOOC.fi - Python Programming
 
-This repository contains my solutions for the exercises and projects from the **Introducton to Python Programming MOOC**, an intensive and high-quality course offered by the **University of Helsinki**. 
+This repository contains my solutions for the exercises and projects from the **Introduction to Python Programming MOOC**, an intensive and high-quality course offered by the **University of Helsinki**. 
 
-This repository serves as a foundational step in my journey **towards Data Engineering**, area I am most interested in, where I am strengthening my logic, data structures, and Python programming skills.
+This repository serves as a foundational step in my journey **towards Data Engineering**, the area I am most interested in, where I am strengthening my logic, data structures, and Python programming skills.
 
 ## 📊 Project Status
 
