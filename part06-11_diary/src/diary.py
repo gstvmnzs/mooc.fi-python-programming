@@ -17,8 +17,10 @@ while True:
     if function == 1:
         entry = input("Diary entry: ")
         function1(entry)
+    
     elif function == 2:
         function2()
+        
     elif function == 0:
         print("Bye now!")
         break

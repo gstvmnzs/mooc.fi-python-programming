@@ -13,7 +13,7 @@ with open("wordlist.txt") as words:
 
 corrected = ""
 for i in range(len(text_words)):
-    if i < len(text_words) - 1:
+    if i < len(text_words)-1:
         corrected += f"{text_words[i]} "
     else:
         corrected += text_words[i]
